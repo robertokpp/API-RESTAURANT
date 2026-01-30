@@ -1,4 +1,4 @@
-import  express  from "express"
+import express from "express"
 
-const PORT = 3333
+const port = 3333
 const app = express()
